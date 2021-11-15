@@ -1,8 +1,10 @@
-`>`[К содержанию](./readme.md)
+[> К содержанию](./readme.md)
 
-Подготовка
+---
 
-Файл GitConfig
+### Подготовка
+
+#### **Файл** __GitConfig__
 
 ```bash=
 [alias]
@@ -14,5 +16,6 @@
   type = cat-file -t
   dump = cat-file -p
 ```
+---
 
-`>`[К содержанию](./readme.md)
+[> К содержанию](./readme.md)
