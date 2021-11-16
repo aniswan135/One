@@ -1,10 +1,10 @@
-[> К содержанию](./readme.md)
+[К содержанию](./readme.md)
 
 ---
 
 ### Внесение изменений
 
-&ensp;&ensp;&ensp;В файле hello.md изменим содержание на:
+&ensp;&ensp;&ensp;В файле _hello.md_ изменим содержание на:
 
 &ensp;&ensp;&ensp;_Hi, SkillFactory !_
 
@@ -18,4 +18,4 @@ git commit -m "update"
 
 ---
 
-[> К содержанию](./readme.md)
+[К содержанию](./readme.md)

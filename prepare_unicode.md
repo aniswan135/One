@@ -1,4 +1,4 @@
-[> К содержанию](./readme.md)
+[К содержанию](./readme.md)
 
 ---
 
@@ -13,4 +13,4 @@ git config --global core.quotepath off
 ```
 ---
 
-[> К содержанию](./readme.md)
+[К содержанию](./readme.md)

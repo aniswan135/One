@@ -1,4 +1,4 @@
-[> К содержанию](./readme.md)
+[К содержанию](./readme.md)
 
  ---
 
@@ -12,7 +12,7 @@
 git status
 ```
 
-РЕЗУЛЬТАТ:
+Результат:
 
 ```branch=
 $ git status
@@ -24,4 +24,4 @@ nothing to commit (working directory clean)
 
 ---
 
-[> К содержанию](./readme.md)
+[К содержанию](./readme.md)

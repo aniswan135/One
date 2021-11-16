@@ -8,7 +8,7 @@
 
 ---
 
-&ensp;&ensp;&ensp;Использованные источники:
+&ensp;&ensp;&ensp;Использованный источник:
 
 &ensp;&ensp;&ensp;[Wikipedia](https://ru.wikipedia.org/wiki/Git)
 

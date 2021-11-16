@@ -8,15 +8,15 @@ LICENSE: [MIT](./license.md)
 
 ### Содержание:
 1. [Что такое GIT?](./what_is_git.md)
-2. [Подготовка](./prepare_gitconfig.md)   
-2.1. [Файл GitConfig](./prepare_gitconfig.md)  
+2. [Подготовка](./alias.md)   
+2.1. [Псевдонимы в Git](./alias.md)  
 2.2. [Unicode](./prepare_unicode.md)  
 3. [Первый проект](./first_project.md)
 4. [Добавление в репозиторий](./add.md)
 5. [Проверка состояния репозитория](./check.md)
 6. [Создание копии репозитория](./copy.md)
 7. [Внесение изменений](./changes.md)
-8. [Gitignore](./ignore.md)
+8. [Git ignore](./ignore.md)
 9. [Git push](./gitpush.md)
 
 ---
